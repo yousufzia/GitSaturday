@@ -6,5 +6,20 @@ public class DemoSaturday {
 		System.out.println("Saturday Demo");
 	}
 	// Coming from Git
+	
+	public void subtractNum(int a, int b) {
+		System.out.println(a-b);
+		
+	}
+	
+	public void subtractNum(int a, int b) {
+		System.out.println(a-b);
+		
+	}
+	
+	public void subtractNum(int a, int b) {
+		System.out.println(a-b);
+		
+	}
 
 }
